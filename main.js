@@ -15,7 +15,7 @@ let perguntas = [
         correta: 3
     },
     {
-        titulo: 'Three',
+        titulo: 'Tree',
         alternativas: ['Pedra', 'Flor', 'Folha', 'Árvore'],
         correta: 3
     },
